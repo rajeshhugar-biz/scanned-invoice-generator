@@ -12,13 +12,13 @@ A pipeline for generating synthetic, multilingual GST invoice images using Azure
 
 | Single | Bilingual |
 |--------|-----------|
-| English | English–Hindi |
-| Hindi | English–Marathi |
-| Marathi | English–Tamil |
-| Tamil | English–Telugu |
-| Telugu | |
-| Kannada | |
-| Bengali | |
+| English |  |
+| Hindi | English–Hindi |
+| Marathi | English–Marathi |
+| Tamil | English–Tamil |
+| Telugu | English–Telugu  |
+| Kannada | English–Kannada  |
+| Bengali |English–Bengali |
 
 ## Document Types (15 Variations)
 

@@ -13,7 +13,7 @@ SUPPORTED_LANGUAGES = [
     "English", "Hindi", "Marathi", "Tamil", "Telugu",
     "Kannada", "Bengali",
     "English-Hindi bilingual", "English-Marathi bilingual",
-    "English-Tamil bilingual", "English-Telugu bilingual",
+    "English-Tamil bilingual", "English-Telugu bilingual","English-Kannada bilingual", "English-Bengali bilingual"
 ]
 
 
